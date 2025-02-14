@@ -1,0 +1,9 @@
+﻿# Unity 忽略規則
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Pp]ackages/manifest.json.meta
